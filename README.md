@@ -9,6 +9,10 @@ Pour télécharger et installer le code source il suffit d'exécuter la commande
 ```bash
 git clone https://github.com/inpulse-tv/ep4-CSS-les-bases.git
 ```
-Puis de suivre les instructions de l'épisode sur notre chaîne [inpulse.tv](https://www.inpulse.tv).
+Retrouvez le menu **Sandwich Poulet Mayonnaise** trop stylé en lancant la page ``j_ai_faim.html`` dans votre navigateur favori.
+
+Vous avez également à disposition la page ``precédence.html`` qui illustre l'utilisation de la règle CSS ``!important``.
+
+Enfin il vous suffit de suivre les instructions de l'épisode sur notre chaîne [inpulse.tv](https://www.inpulse.tv).
 
 Bon visionage et à bientôt sur [inpulse.tv](https://www.inpulse.tv).
